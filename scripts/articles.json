@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Jellyfish",
+        "link": "https://www.desmos.com/calculator/32n6xt5nh7",
+        "description": "Jellyfish modeling using 3d parametrizations with animation",
+        "image": "images/jellyfish.png"
+    },
+    {
+        "title": "Flowers",
+        "link": "https://www.desmos.com/calculator/eju1u7t2kn",
+        "description": "Animating growing flowers using curves and 3d parametrizations.",
+        "image": "images/flowers.png"
+    },
+    {
+        "title": "Hanukkiah",
+        "link": "https://www.desmos.com/calculator/l61dwrtvwq",
+        "description": "complex 3d object using a single 3d curve",
+        "image": "images/hanukkiah.png"
+    },
+    {
+        "title": "Gondola ride",
+        "link": "https://www.desmos.com/calculator/usntsrhkiz",
+        "description": "perspective transformation with motion.",
+        "image": "images/venice.png"
+    },
+    {
+        "title": "Cat",
+        "link": "https://www.desmos.com/calculator/m7dci5y4lh",
+        "description": "cat sculpting from a single 2d function",
+        "image": "images/cat.png"
+    },
+    {
+        "title": "Spherical world",
+        "link": "https://www.desmos.com/calculator/wbywdlhsxn",
+        "description": "Spherical 3d transformation.",
+        "image": "images/circularWorld.png"
+    },
+    {
+        "title": "Stingray",
+        "link": "https://www.desmos.com/calculator/mxsqtmyl8u",
+        "description": "Organic modelling by combining functions and curves.",
+        "image": "images/Stingray.png"
+    },
+    {
+        "title": "Playable Driver",
+        "link": "https://www.desmos.com/calculator/dyv7x5hf3m",
+        "description": "interactive car driver using perspective transformations.",
+        "image": "images/driver.png"
+    },
+    {
+        "title": "Castle",
+        "link": "https://www.desmos.com/calculator/lxo05pdjr1",
+        "description": "Optical illusion with 3d transformations.",
+        "image": "images/castle.png"
+    },
+    {
+        "title": "Cube illusion",
+        "link": "https://www.desmos.com/calculator/ry4wcxpnm3",
+        "description": "Optical illusion with 3d transformations.",
+        "image": "images/cube.png"
+    },
+    {
+        "title": "ping pong",
+        "link": "https://www.desmos.com/calculator/ylqnuudj1x",
+        "description": "Interactive ping pong game.",
+        "image": "images/pingpong.png"
+    },
+    {
+        "title": "Spider",
+        "link": "https://www.desmos.com/calculator/cs3spozadk",
+        "description": "3d transformations and inverse kinematics.",
+        "image": "images/spider.png"
+    },
+    {
+        "title": "pixar lamp",
+        "link": "https://www.desmos.com/calculator/5ikv13d8vy",
+        "description": "character rigging and inverse kinematics.",
+        "image": "images/pixarlamp.png"
+    },
+    {
+        "title": "desert driver",
+        "link": "https://www.desmos.com/calculator/ew9klhe4cv",
+        "description": "car driver using perspective transformations.",
+        "image": "images/desert.png"
+    },
+    {
+        "title": "Slinky",
+        "link": "https://www.desmos.com/calculator/3tnckawuyl",
+        "description": "Spring animation along 3d parametrizations.",
+        "image": "images/slinky.png"
+    },
+    {
+        "title": "Newton's cradle",
+        "link": "https://www.desmos.com/calculator/tackp1n9nv",
+        "description": "Physical simulation.",
+        "image": "images/cradle.png"
+    },
+    {
+        "title": "Single curve drawing",
+        "link": "https://www.desmos.com/calculator/mcgda0pjyl",
+        "description": "Drawing one of my professors using a single curve.",
+        "image": "images/lydia.png"
+    },
+    {
+        "title": "Energy conservation",
+        "link": "https://www.desmos.com/calculator/g7fj7rg1zy",
+        "description": "Visualizing physical energy conservation.",
+        "image": "images/energies.png"
+    }
+]
