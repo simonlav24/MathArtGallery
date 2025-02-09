@@ -1,14 +1,20 @@
 [
     {
+        "title": "Hummingbird",
+        "link": "https://www.desmos.com/calculator/lt3yqpjlru",
+        "description": "mimicking a hummingbird's flight using 3d parametrizations.<br> 2024 Desmos math art contest winner.",
+        "image": "images/hummingbird.png"
+    },
+    {
         "title": "Jellyfish",
         "link": "https://www.desmos.com/calculator/32n6xt5nh7",
-        "description": "Jellyfish modeling using 3d parametrizations with animation",
+        "description": "Jellyfish modeling using 3d parametrizations with animation.<br> 2023 Desmos math art contest winner.",
         "image": "images/jellyfish.png"
     },
     {
         "title": "Flowers",
         "link": "https://www.desmos.com/calculator/eju1u7t2kn",
-        "description": "Animating growing flowers using curves and 3d parametrizations.",
+        "description": "Animating growing flowers using curves and 3d parametrizations.<br> 2022 Desmos math art contest winner.",
         "image": "images/flowers.png"
     },
     {
